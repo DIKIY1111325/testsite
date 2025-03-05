@@ -1,0 +1,20 @@
+Tooplate.com HTML Templates
+
+структура
+index ---->>> subscription---->>>pay
+login--->>> pasword-reset
+invite
+vpn_client
+
+
+
+
+FAQ
+БЕЗОПАСНОСТЬ ДАННЫХ о сервере, клиенте и протоколах 
+УСТОЙЧИВОСТЬ К БЛОКИРОВКАМ о условия инвайта
+ЛЕГКОЕ УПРАВЛЕНИЕ о тарифы оплата 
+faq4 что то пошло не так
+contact
+
+
+https://xtls.github.io/ru/
